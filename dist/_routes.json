@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/android-chrome-192x192.png",
+    "/android-chrome-512x512.png",
+    "/apple-touch-icon.png",
+    "/favicon-16x16.png",
+    "/favicon-32x32.png",
+    "/favicon.ico",
+    "/favicon.png",
+    "/site.webmanifest",
+    "/assets/app-DU2gGyHe.css",
+    "/_build/.vite/manifest.json",
+    "/_build/assets/__vite-browser-external-BIHI7g3E.js",
+    "/_build/assets/_layout-2-BkiTrzgg.js",
+    "/_build/assets/_layout-4IlPFVJJ.js",
+    "/_build/assets/app-DU2gGyHe.css",
+    "/_build/assets/client-C1ORjSBI.js",
+    "/_build/assets/client-ok51kevS.js",
+    "/_build/assets/deferred-BoJVyac2.js",
+    "/_build/assets/index-B7X6Zf6B.js",
+    "/_build/assets/layout-a-X3y2t8pz.js",
+    "/_build/assets/layout-b-B4MpsuH1.js",
+    "/_build/assets/posts_._postId.deep-BwDHOvvr.js",
+    "/_build/assets/posts_._postId.deep-CLnJQONx.js",
+    "/_build/assets/posts-BrzDHp0m.js",
+    "/_build/assets/posts._postId-C4dDaVnD.js",
+    "/_build/assets/posts._postId-Dx_tOMZG.js",
+    "/_build/assets/posts.index-CjPFmWYs.js",
+    "/_build/assets/users-DAIBED9W.js",
+    "/_build/assets/users._userId-cGOtUl1r.js",
+    "/_build/assets/users._userId-pxyh6-I_.js",
+    "/_build/assets/users.index-DhxV9s2x.js"
+  ]
+}
